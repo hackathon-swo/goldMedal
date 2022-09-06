@@ -60,6 +60,10 @@ public class Country {
     public Integer getPopulation() {
         return population;
     }
+    
+    public Integer setPopulation(Integer population){
+        this.population = population;
+    }    
 
    
 }
