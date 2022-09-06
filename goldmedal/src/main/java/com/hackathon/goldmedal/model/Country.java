@@ -61,7 +61,5 @@ public class Country {
         return population;
     }
 
-    public void setPopulation(Integer population) {
-        this.population = population;
-    }
+   
 }
