@@ -13,13 +13,13 @@ public class Keyword {
         return tipoCodificicacion;
     }
     public void setTipoCodificicacion(String tipoCodificicacion) {
-        this.tipoCodificicacion = "MD5";
+        this.tipoCodificicacion = "ROT-13";
     }
     public String getCodigo() {
         return codigo;
     }
     public void setCodigo(String codigo) {
-        this.codigo = "5ac08b25b64e00caa70bccea29263449";
+        this.codigo = "qrzl";
     }
 
     
