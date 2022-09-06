@@ -10,7 +10,7 @@ public class CountryMedalsListResponse {
     }
 
     public List<GoldMedal> getMedals() {
-        return medals;
+        return medals
     }
 
     public void setMedals(List<GoldMedal> medals) {
